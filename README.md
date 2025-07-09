@@ -1,25 +1,25 @@
 <h1 align="center">Hi, I'm Abdul Ahad 👋</h1>
 
 <p align="center">
-  <strong>Front-End Web Developer | CS Student at UET Lahore (RCET)</strong><br>
-  Passionate about building responsive, high-performance websites using HTML, CSS, JavaScript, Bootstrap, and jQuery.
+  <strong>Full Stack Web Developer  | CS Student at UET Lahore</strong><br>
+   Passionate about building responsive, high-performance web applications using modern technologies.
 </p>
 
 ---
 
 ### 🚀 About Me
 - 🎓 I'm currently pursuing a BS in Computer Science at **UET Lahore (RCET)**
-- 💻 I specialize in **front-end development** and UI design
-- 🛠️ Tech stack: `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `jQuery`, `SASS`
-- 🌐 I build fast, SEO-optimized, and responsive websites
-- 🎯 Learning: `React`, `Git`, `APIs`, `Flutter`
+- 💻 I specialize in **full stack web development** and clean UI/UX design
+- 🛠️ Tech stack: `HTML`, `CSS`, `JavaScript`, `React`, `Tailwindcss` `Bootstrap`, `jQuery`, `SASS`, `Node.js`, `Express.js`, `MongoDB`
+- 🌐 I build fast, SEO-optimized, and scalable websites and apps
+- 🎯 Currently Learning: `Flutter`, `.NET`, `DevOps (AWS)`
 
 ---
 
 ### 🌐 Portfolio & Socials
 
-- 🔗 Portfolio: [abdulahadportfollio.netlify.app](https://abdulahadportfollio.netlify.app)
-- 💼 LinkedIn: [linkedin.com/in/abdulahad56](https://linkedin.com/in/abdulahad56)
+- 🔗 Portfolio: [abdulahadportfollio.netlify.app](https://abdulahadportfolio.tech/)
+- 💼 LinkedIn: [linkedin.com/in/abdulahad56](https://linkedin.com/in/abdul-ahad56)
 - 🧑‍💻 GitHub: [github.com/AbdulAhad56](https://github.com/AbdulAhad56)
 
 ---
