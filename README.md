@@ -29,8 +29,8 @@
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
 | [ATHLEIMAX] | A performance-focused website for ATHLEIMAX, a sportswear and leatherwear manufacturer. Features include categorized product listings, a responsive layout, and an intuitive user interface optimized for both desktop and mobile users. | [Live](https://athleimax.com/) |
-| [Icedge Sportswear](https://github.com/AbdulAhad56/ICEDGE-SPORTSWEAR) | Manufacturer Website with product pages, contact form, and SEO | [Live](https://icedgesportswear.com/) |
-| [Wajid & Company International]([https://github.com/AbdulAhad56/.github.io](https://github.com/AbdulAhad56/Wajid-Company-International)) |A responsive, corporate website developed for a construction and services firm. The site includes an overview of the company’s mission, a portfolio section, and a contact form, designed to enhance client engagement and credibility. | [Live](https://wajidcompanyinternational.netlify.app/) |
+| [Icedge Sportswear] | Manufacturer Website with product pages, contact form, and SEO | [Live](https://icedgesportswear.com/) |
+| [Wajid & Company International](https://github.com/AbdulAhad56/Wajid-Company-International) |A responsive, corporate website developed for a construction and services firm. The site includes an overview of the company’s mission, a portfolio section, and a contact form, designed to enhance client engagement and credibility. | [Live](https://wajidcompanyinternational.netlify.app/) |
 | [PORTFOLIO](https://github.com/AbdulAhad56/Personal-Portfolio) | 	Personal portfolio showcasing my skills, projects, and contact details | [Live](https://abdulahadportfolio.netlify.app/) |
 | [University Website](https://github.com/AbdulAhad56/UET-RCET-Website) | Informational site for UET RCET with multiple pages | [Live](https://abdulahad56.github.io/UET-RCET-Website/) |
 
