@@ -8,11 +8,11 @@
 ---
 
 ### 🚀 About Me
-- 🎓 I'm currently pursuing a BS in Computer Science at **UET Lahore (RCET)**
+- 🎓 I'm currently pursuing a BSc in Computer Science at **University of Engineering & Technology, Lahore**
 - 💻 I specialize in **full stack web development** and clean UI/UX design
 - 🛠️ Tech stack: `HTML`, `CSS`, `JavaScript`, `React`, `Tailwindcss` `Bootstrap`, `jQuery`, `SASS`, `Node.js`, `Express.js`, `MongoDB`
 - 🌐 I build fast, SEO-optimized, and scalable websites and apps
-- 🎯 Currently Learning: `Flutter`, `.NET`, `DevOps (AWS)`
+- 🎯 Currently Learning: `Flutter`, `AI/ML`, `Data Science`
 
 ---
 
