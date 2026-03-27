@@ -10,9 +10,11 @@
 ### 🚀 About Me
 - 🎓 I'm currently pursuing a BSc in Computer Science at **University of Engineering & Technology, Lahore**
 - 💻 Web Developer experienced in building responsive, performance-focused, and user-centric web applications
-- 🛠️ Tech stack: `HTML`, `CSS`, `JavaScript`, `React`, `Tailwindcss` `Bootstrap`, `jQuery`, `SASS`, `Node.js`, `Express.js`, `MongoDB`
+- 🛠️ Core stack: `HTML`, `CSS`, `JavaScript`, `React`, `Tailwindcss` `Bootstrap`, `jQuery`, `SASS`
+- ⚙️ Backend fundamentals: `Node.js`, `Express.js`, `MongoDB`
+- 🤖 AI/ML experience: building predictive models, data analysis, and visualization projects using `Python`
 - 🌐 Delivered real-world business websites with focus on UI/UX, responsiveness, and SEO
-- 🤖 Currently exploring `AI/ML`, `Data Science`, and `data-driven application development`
+- 📊 Projects include machine learning systems, dashboards, and full-stack applications
 
 ---
 
@@ -28,11 +30,12 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| [ATHLEIMAX] | A performance-focused website for ATHLEIMAX, a sportswear and leatherwear manufacturer. Features include categorized product listings, a responsive layout, and an intuitive user interface optimized for both desktop and mobile users. | [Live](https://athleimax.com/) |
+| [ATHLEIMAX] | A high-performance Clothing Manufaturer website with responsive design, product categorization, and optimized UI/UX for business use. | [Live](https://athleimax.com/) |
+| [CardioPuls-AI](https://github.com/AbdulAhad56/CardioPulse-AI) | End-to-end heart disease prediction system using machine learning, EDA, and data visualization to generate clinical insights. | [Repo](https://github.com/AbdulAhad56/CardioPulse-AI.git) |
 | [Icedge Sportswear] | Manufacturer Website with product pages, contact form, and SEO | [Live](https://icedgesportswear.com/) |
-| [Wajid & Company International](https://github.com/AbdulAhad56/Wajid-Company-International) |A responsive, corporate website developed for a construction and services firm. The site includes an overview of the company’s mission, a portfolio section, and a contact form, designed to enhance client engagement and credibility. | [Live](https://wajidcompanyinternational.netlify.app/) |
-| [PORTFOLIO](https://github.com/AbdulAhad56/Personal-Portfolio) | 	Personal portfolio showcasing my skills, projects, and contact details | [Live](https://abdulahadportfolio.netlify.app/) |
-| [University Website](https://github.com/AbdulAhad56/UET-RCET-Website) | Informational site for UET RCET with multiple pages | [Live](https://abdulahad56.github.io/UET-RCET-Website/) |
+| [Contact Book (WinForms)](https://github.com/AbdulAhad56/Contact-Book-WinForms) | Desktop application using C# and Oracle 10g implementing CRUD operations and OOP concepts | [Repo](https://github.com/AbdulAhad56/Contact-Book-WinForms.git) |
+| [Blockchain Prescription System)](https://github.com/AbdulAhad56/Blockchain_Based_Prescription_Verification_System) | Blockchain-based system for secure and tamper-proof medical prescription verification | [Repo](https://github.com/AbdulAhad56/Blockchain_Based_Prescription_Verification_System.git) |
+| [Air Pollution Detection)](https://github.com/AbdulAhad56/Air_Pollution_Detection_System) | Data analysis system using global datasets to monitor and visualize air quality insights | [Repo](https://github.com/AbdulAhad56/Air_Pollution_Detection_System.git) |
 
 ---
 
