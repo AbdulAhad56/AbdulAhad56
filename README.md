@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Abdul Ahad 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Web Developer  | CS Student at UET Lahore</strong><br>
-   Passionate about building responsive, high-performance web applications using modern technologies.
+  <strong>Web Developer | AI/ML | CS Student at UET Lahore</strong><br>
+   Building scalable web applications and exploring machine learning, data-driven systems, and intelligent solutions.
 </p>
 
 ---
 
 ### 🚀 About Me
 - 🎓 I'm currently pursuing a BSc in Computer Science at **University of Engineering & Technology, Lahore**
-- 💻 I specialize in **full stack web development** and clean UI/UX design
+- 💻 Web Developer experienced in building responsive, performance-focused, and user-centric web applications
 - 🛠️ Tech stack: `HTML`, `CSS`, `JavaScript`, `React`, `Tailwindcss` `Bootstrap`, `jQuery`, `SASS`, `Node.js`, `Express.js`, `MongoDB`
-- 🌐 I build fast, SEO-optimized, and scalable websites and apps
-- 🎯 Currently Learning: `Flutter`, `AI/ML`, `Data Science`
+- 🌐 Delivered real-world business websites with focus on UI/UX, responsiveness, and SEO
+- 🤖 Currently exploring `AI/ML`, `Data Science`, and `data-driven application development`
 
 ---
 
@@ -39,8 +39,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulAhad56&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAhad56&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" height="160">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbdulAhad56&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" height="160">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AbdulAhad56&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" height="160">
 </p>
 
 ---
