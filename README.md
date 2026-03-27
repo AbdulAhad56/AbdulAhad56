@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 🎓 I'm currently pursuing a BSc in Computer Science at **University of Engineering & Technology, Lahore**
 - 💻 Web Developer experienced in building responsive, performance-focused, and user-centric web applications
-- 🛠️ Core stack: `HTML`, `CSS`, `JavaScript`, `React`, `Tailwindcss` `Bootstrap`, `jQuery`, `SASS`
+- 🛠️ Core stack: `HTML`, `CSS`, `JavaScript`, `React`, `Tailwind CSS` `Bootstrap`, `jQuery`
 - ⚙️ Backend fundamentals: `Node.js`, `Express.js`, `MongoDB`
 - 🤖 AI/ML experience: building predictive models, data analysis, and visualization projects using `Python`
 - 🌐 Delivered real-world business websites with focus on UI/UX, responsiveness, and SEO
