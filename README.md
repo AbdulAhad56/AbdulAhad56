@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Data Science Enthusiast | Python | Machine Learning | Data Analysis</strong><br>
-   Building scalable web applications and exploring machine learning, data-driven systems, and intelligent solutions.
+   Building data-driven systems, predictive models, and scalable web applications.
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 🧠 Experienced in building **ML models, performing EDA, and extracting insights from data**
 - ⚙️ Skilled in `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `Power BI`
 - 🌐 Also experienced in **full-stack web development** (React, Node.js)
-- 📈 Built real-world projects involving **prediction systems, dashboards, and data-driven applications**
+- 📈 Built real-world **ML systems, dashboards, and data-driven applications**
 
 ---
 
@@ -35,6 +35,14 @@
 | [ATHLEIMAX] | A high-performance Clothing Manufaturer website with responsive design, product categorization, and optimized UI/UX for business use. | [Live](https://athleimax.com/) |
 | [Icedge Sportswear] | Manufacturer Website with product pages, contact form, and SEO | [Live](https://icedgesportswear.com/) |
 | [Contact Book (WinForms)](https://github.com/AbdulAhad56/Contact-Book-WinForms) | Desktop application using C# and Oracle 10g implementing CRUD operations and OOP concepts | [Repo](https://github.com/AbdulAhad56/Contact-Book-WinForms.git) |
+
+---
+
+### 🧠 Data Science Stack
+- Python, Pandas, NumPy  
+- Scikit-learn (Machine Learning Models)  
+- Data Cleaning & EDA  
+- Data Visualization (Matplotlib, Seaborn, Power BI)  
 
 ---
 
