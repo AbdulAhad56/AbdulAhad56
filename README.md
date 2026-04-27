@@ -30,11 +30,11 @@
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
 | [CardioPuls-AI](https://github.com/AbdulAhad56/CardioPulse-AI) | End-to-end heart disease prediction system using machine learning, EDA, and data visualization to generate clinical insights. | [Repo](https://github.com/AbdulAhad56/CardioPulse-AI.git) |
+| [Blockchain Prescription System)](https://github.com/AbdulAhad56/Blockchain_Based_Prescription_Verification_System) | Blockchain-based system for secure and tamper-proof medical prescription verification | [Repo](https://github.com/AbdulAhad56/Blockchain_Based_Prescription_Verification_System.git) |
+| [Air Pollution Detection)](https://github.com/AbdulAhad56/Air_Pollution_Detection_System) | Data analysis system using global datasets to monitor and visualize air quality insights | [Repo](https://github.com/AbdulAhad56/Air_Pollution_Detection_System.git) |
 | [ATHLEIMAX] | A high-performance Clothing Manufaturer website with responsive design, product categorization, and optimized UI/UX for business use. | [Live](https://athleimax.com/) |
 | [Icedge Sportswear] | Manufacturer Website with product pages, contact form, and SEO | [Live](https://icedgesportswear.com/) |
 | [Contact Book (WinForms)](https://github.com/AbdulAhad56/Contact-Book-WinForms) | Desktop application using C# and Oracle 10g implementing CRUD operations and OOP concepts | [Repo](https://github.com/AbdulAhad56/Contact-Book-WinForms.git) |
-| [Blockchain Prescription System)](https://github.com/AbdulAhad56/Blockchain_Based_Prescription_Verification_System) | Blockchain-based system for secure and tamper-proof medical prescription verification | [Repo](https://github.com/AbdulAhad56/Blockchain_Based_Prescription_Verification_System.git) |
-| [Air Pollution Detection)](https://github.com/AbdulAhad56/Air_Pollution_Detection_System) | Data analysis system using global datasets to monitor and visualize air quality insights | [Repo](https://github.com/AbdulAhad56/Air_Pollution_Detection_System.git) |
 
 ---
 
