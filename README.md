@@ -1,20 +1,19 @@
 <h1 align="center">Hi, I'm Abdul Ahad 👋</h1>
 
 <p align="center">
-  <strong>Web Developer | AI/ML | CS Student at UET Lahore</strong><br>
+  <strong>Data Science Enthusiast | Python | Machine Learning | Data Analysis</strong><br>
    Building scalable web applications and exploring machine learning, data-driven systems, and intelligent solutions.
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 I'm currently pursuing a BSc in Computer Science at **University of Engineering & Technology, Lahore**
-- 💻 Web Developer experienced in building responsive, performance-focused, and user-centric web applications
-- 🛠️ Core stack: `HTML`, `CSS`, `JavaScript`, `React`, `Tailwind CSS` `Bootstrap`, `jQuery`
-- ⚙️ Backend fundamentals: `Node.js`, `Express.js`, `MongoDB`
-- 🤖 AI/ML experience: building predictive models, data analysis, and visualization projects using `Python`
-- 🌐 Delivered real-world business websites with focus on UI/UX, responsiveness, and SEO
-- 📊 Projects include machine learning systems, dashboards, and full-stack applications
+- 🎓 Computer Science student at **UET Lahore**
+- 📊 Passionate about **Data Science, Machine Learning, and Data Analysis**
+- 🧠 Experienced in building **ML models, performing EDA, and extracting insights from data**
+- ⚙️ Skilled in `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `Power BI`
+- 🌐 Also experienced in **full-stack web development** (React, Node.js)
+- 📈 Built real-world projects involving **prediction systems, dashboards, and data-driven applications**
 
 ---
 
@@ -30,8 +29,8 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| [ATHLEIMAX] | A high-performance Clothing Manufaturer website with responsive design, product categorization, and optimized UI/UX for business use. | [Live](https://athleimax.com/) |
 | [CardioPuls-AI](https://github.com/AbdulAhad56/CardioPulse-AI) | End-to-end heart disease prediction system using machine learning, EDA, and data visualization to generate clinical insights. | [Repo](https://github.com/AbdulAhad56/CardioPulse-AI.git) |
+| [ATHLEIMAX] | A high-performance Clothing Manufaturer website with responsive design, product categorization, and optimized UI/UX for business use. | [Live](https://athleimax.com/) |
 | [Icedge Sportswear] | Manufacturer Website with product pages, contact form, and SEO | [Live](https://icedgesportswear.com/) |
 | [Contact Book (WinForms)](https://github.com/AbdulAhad56/Contact-Book-WinForms) | Desktop application using C# and Oracle 10g implementing CRUD operations and OOP concepts | [Repo](https://github.com/AbdulAhad56/Contact-Book-WinForms.git) |
 | [Blockchain Prescription System)](https://github.com/AbdulAhad56/Blockchain_Based_Prescription_Verification_System) | Blockchain-based system for secure and tamper-proof medical prescription verification | [Repo](https://github.com/AbdulAhad56/Blockchain_Based_Prescription_Verification_System.git) |
