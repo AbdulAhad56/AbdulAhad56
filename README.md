@@ -20,8 +20,8 @@
 ### 🌐 Portfolio & Socials
 
 - 🔗 Portfolio: [abdulahadportfollio.tech](https://abdulahadportfolio.tech/)
-- 💼 LinkedIn: [linkedin.com/in/abdul-ahad56](https://linkedin.com/in/abdul-ahad56)
-- 🧑‍💻 GitHub: [github.com/AbdulAhad56](https://github.com/AbdulAhad56)
+- 💼 LinkedIn: [linkedin.com/in/abdul-ahad56](https://linkedin.com/in/abdulahadbuilds)
+- 🧑‍💻 GitHub: [github.com/AbdulAhad56](https://github.com/ahadbuilds)
 
 ---
 
